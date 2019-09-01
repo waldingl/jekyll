@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Luke Walding
+title: Heliolatry
 description: >- # this means to ignore newlines until "baseurl:"
   Experimental home of Luke Walding. If you're viewing this, it's probably dormant.
   If it isn’t, I must have got off my ass.
